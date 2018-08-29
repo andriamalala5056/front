@@ -206,8 +206,23 @@ footer i.fa {
 }
 
 footer i.fa:hover {
-	color: #4caf50;
 	transition: 0.9s;
+}
+
+footer i.fa.fa-facebook:hover {
+	color: #3d5998;
+}
+
+footer i.fa.fa-twitter:hover {
+	color: #1da1f2;
+}
+
+footer i.fa.fa-google:hover {
+	color: #ea4335;
+}
+
+footer i.fa.fa-linkedin:hover {
+	color: #01649b;
 }
 
 /* SVG START */
